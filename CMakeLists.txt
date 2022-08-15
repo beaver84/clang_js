@@ -3,4 +3,4 @@ project(clang_js C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(clang_js main.c)
+add_executable(clang_js main.c 7_2.c)
